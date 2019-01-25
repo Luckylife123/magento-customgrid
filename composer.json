@@ -1,0 +1,21 @@
+{
+  "name": "stagem/magento-customgrid",
+  "type": "magento-module",
+  "license":"MIT Licence",
+  "description":"Module BL Custom Grid",
+  "authors":[
+    {
+      "name": "Vlad Kozak",
+      "email": "vk@stagem.com.ua"
+    },
+    {
+      "name": "Viktor Dmytruk",
+      "email": "bitbok123@gmail.com"
+    }
+  ],
+  "extra": {
+    "map": [
+      
+    ]
+  }
+}
